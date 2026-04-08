@@ -1,7 +1,12 @@
 # flutter_langdetect
 
-A Flutter package for language detection, ported from the Python [`langdetect`](https://github.com/Mimino666/langdetect) library.
+This is a fork of [original flutter_langdetect by Hiroshi Ayukawa](https://github.com/hayau/flutter_langdetect).
 
+## Modifications
+- Updated logger dependency to match project requirements
+
+## License
+This project is licensed under the Apache License 2.0 - see LICENSE file for details.
 ## Features
 - Detects 55 languages
 - Lightweight and fast
